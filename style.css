@@ -225,7 +225,7 @@ a:focus-visible, summary:focus-visible {
 .hero__logo-img {
   display: block;
   width: auto;
-  height: clamp(68px, 9vw, 110px);
+  height: clamp(96px, 12vw, 150px);
   max-width: 100%;
   object-fit: contain;
 }
@@ -1856,7 +1856,7 @@ a:focus-visible, summary:focus-visible {
   .hero__title { line-height: 1.45; }
   .hero__lead { line-height: 1.85; }
   .hero__logo { margin-bottom: 22px; }
-  .hero__logo-img { height: 64px; }
+  .hero__logo-img { height: 88px; }
   .hero__badge { font-size: 14px; padding: 11px 22px; margin-bottom: 28px; }
   .hero__title { font-size: clamp(30px, 8vw, 44px); line-height: 1.4; margin-bottom: 24px; }
   .hero__lead { font-size: 16px; margin-bottom: 28px; line-height: 1.95; }
